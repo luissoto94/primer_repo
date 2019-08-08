@@ -1,5 +1,5 @@
-# primer_repo
-Este es el primer repo
+# segundo_repo
+Este es el segundo repo
 
 This is so cool.
 I love the internet.
